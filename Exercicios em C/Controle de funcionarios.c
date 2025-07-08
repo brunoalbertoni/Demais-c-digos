@@ -1,7 +1,3 @@
-//Bruno Henrique RA:1988433
-//Gabriel Ribeiro RA:1990750
-//Felipe Sizilio RA:1990260
-
 #include <stdio.h>
 #include <string.h> //utilizaremos para comparar os CPF's
  typedef struct{
